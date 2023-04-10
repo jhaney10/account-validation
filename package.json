@@ -1,0 +1,25 @@
+{
+  "name": "account-validation-app",
+  "version": "1.0.0",
+  "description": "A simple node app that verifies Nigerian bank Account Number",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaney10/account-validation.git"
+  },
+  "keywords": [
+    "nigeria",
+    "account",
+    "number",
+    "validation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhaney10/account-validation/issues"
+  },
+  "homepage": "https://github.com/jhaney10/account-validation#readme"
+}
